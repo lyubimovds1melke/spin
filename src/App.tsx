@@ -89,7 +89,7 @@ function App() {
             <div className="text-center mb-8">
               <h1 className="text-4xl font-bold text-gray-800 mb-2 flex items-center justify-center gap-2">
                 <Sparkles className="text-yellow-500" />
-                SUPER SLOTS
+                Поле чудес
                 <Sparkles className="text-yellow-500" />
               </h1>
               <div className="text-2xl font-semibold text-gray-700">
